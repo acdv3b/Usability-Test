@@ -1,5 +1,5 @@
 Addition:
-x = y + z
+x = y ++ z
 
 Subtraction: 
 x = y - z
